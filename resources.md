@@ -5,7 +5,7 @@ permalink: /resources
 
 # A List of resources I used to come up to speed on modern deep learning practices and general Programming practices
 
-##Books
+## Books
 * Python Cookbook
 * C++ Primer
 * Advances in Financial Machine Learning
@@ -16,7 +16,7 @@ permalink: /resources
 * Applied Predictive Modelling
 * The Pragmatic Programming
 
-#Course
+## Course
 * Python for Data Science and Machine Learning Bootcamp
 * Introduction to Machine Learning - Stanford
 * Deep Learning Specialization - Deep.ai
