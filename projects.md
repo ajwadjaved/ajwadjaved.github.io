@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /project/
+permalink: /project
 ---
 
 # Quora Insincere Question Classification 

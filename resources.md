@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /resources/
+permalink: /resources
 ---
 
 # A List of resources I used to come up to speed on modern deep learning practices and general Programming practices
