@@ -1,6 +1,11 @@
-title: Minimal theme
+title: Tosikko
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
+url: https://tosikko.github.io/
+
+
+description: Researcher, contact at rand.bsaf18@nbs.nust.edu.pk
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
+
+
