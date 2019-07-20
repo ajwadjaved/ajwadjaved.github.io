@@ -16,7 +16,7 @@ permalink: /resources
 * Applied Predictive Modelling
 * The Pragmatic Programming
 
-## Course
+## Courses
 * Python for Data Science and Machine Learning Bootcamp
 * Introduction to Machine Learning - Stanford
 * Deep Learning Specialization - Deep.ai
