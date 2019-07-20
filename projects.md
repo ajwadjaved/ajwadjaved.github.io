@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: tosikko.github.io/project/
+permalink: /project/
 ---
 
 # Quora Insincere Question Classification 

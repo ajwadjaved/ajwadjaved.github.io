@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: tosikko.github.io/about
+permalink: /about
 ---
 
 # A list of some of the media I've consumed because why not.
