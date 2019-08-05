@@ -1,11 +1,11 @@
 title: Tosikko
-logo: /assets/img/logo.png
-url: https://tosikko.github.io/
+#logo: /assets/img/logo.png
+logo: me.png
+url: https://ajwadjaved.github.io/
 
 
-description: Researcher, contact at rand.bsaf18@nbs.nust.edu.pk
+description: Researcher, contact at ajwad.bsaf18@nbs.nust.edu.pk
 show_downloads: false
-google_analytics:
 theme: jekyll-theme-minimal
 
 
