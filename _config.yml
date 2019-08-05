@@ -1,10 +1,9 @@
-title: Tosikko
-#logo: /assets/img/logo.png
+title: Ajwad Javed
+description: Personal Website
 logo: me.png
 url: https://ajwadjaved.github.io/
 
-
-description: Researcher, contact at ajwad.bsaf18@nbs.nust.edu.pk
+description: Researcher \| [Mail](mailto:ajwad.bsaf18@nbs.nust.edu.pk)
 show_downloads: false
 theme: jekyll-theme-minimal
 
