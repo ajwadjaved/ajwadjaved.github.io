@@ -3,9 +3,7 @@ layout: default
 permalink: /about
 ---
 
-# A list of some of the media I've consumed because I need to check out a way to try out pagination. 
-
-# List of some of the books/movies/media I've consumed just because I need something to test out relative hyperlinking and editing the default css on non-index pages on GitHub Pages:
+# List of some of my favourite books/movies/media that I've consumed just because I need something to test out relative hyperlinking and editing the default css on non-index pages on GitHub Pages:
 
 # Books
 * Vladimir Nabokov - Lolita
