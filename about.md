@@ -29,8 +29,8 @@ permalink: /about
 * Pi - Darren Aronofsky
 * The Shining - Stanley Kubrick
 * A Clockwork Orange - Stanley Kubrick
-** [Why I Went 2 Years with No Internet at Home](https://www.youtube.com/watch?v=kiMcX3Fa2Us)
- Anything by Tarantino
+* [Why I Went 2 Years with No Internet at Home](https://www.youtube.com/watch?v=kiMcX3Fa2Us)
+* Anything by Tarantino
 
 # Music
 * Clint Mansell - Lux Aeterna
