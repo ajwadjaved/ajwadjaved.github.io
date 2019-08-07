@@ -18,7 +18,7 @@ permalink: /about
 # Documentaries
 * The World at War
 * The Century of the Self
-* Nazi Concentration Camps
+* [German Concentration Camps](https://www.youtube.com/watch?v=O5jeQ8ohtyo)
 * Earthlings
 
 # Movies/Videos
@@ -29,8 +29,8 @@ permalink: /about
 * Pi - Darren Aronofsky
 * The Shining - Stanley Kubrick
 * A Clockwork Orange - Stanley Kubrick
-* Anything Tarantino
-* [Why I Went 2 Years with No Internet at Home](https://www.youtube.com/watch?v=kiMcX3Fa2Us)
+** [Why I Went 2 Years with No Internet at Home](https://www.youtube.com/watch?v=kiMcX3Fa2Us)
+ Anything by Tarantino
 
 # Music
 * Clint Mansell - Lux Aeterna
@@ -41,4 +41,3 @@ permalink: /about
 * Mooro - Pehli
 * [And this](https://www.youtube.com/watch?v=KL--RrbjrF0)
 
-[back](./)
