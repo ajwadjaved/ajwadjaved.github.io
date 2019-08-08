@@ -14,7 +14,7 @@ permalink: /resources
 * Deep Learning - Ian Goodfellow
 * Advanced Programming in the Unix Enviroment
 * Applied Predictive Modelling
-* The Pragmatic Programming
+* The Pragmatic Programmer
 
 ## Courses
 * Python for Data Science and Machine Learning Bootcamp
