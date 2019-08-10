@@ -3,7 +3,7 @@ layout: default
 permalink: /resources
 ---
 
-# A List of resources I used to come up to speed on modern deep learning and programming practices
+# A list of resources I used to come up to speed on modern deep learning and programming practices
 
 ## Books
 * Python Cookbook
