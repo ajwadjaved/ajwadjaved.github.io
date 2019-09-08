@@ -2,6 +2,6 @@
 layout: default
 ---
 
-[Interests](ajwadjaved.github.io/about) \| [Projects](ajwadjaved.github.io/project) \| [Resources](ajwadjaved.github.io/resources) \| [Contact](ajwadjaved.github.io/contact)
+[Interests](/about) \| [Projects](/project) \| [Resources](/resources) \| [Contact](/contact)
 
-**About:** Sophomore undergrad student interested in maths, the stock market, linguistics and natural language processing.
+**About:** Sophomore undergrad student with interests in Machine Learning, Finance, Mathematics and Linguistics. Currently I'm working on Financial Statements Table Extraction.
