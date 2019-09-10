@@ -4,4 +4,11 @@ permalink: /contact
 ---
 
 # Contact
-Just throw a email at ajwad.bsaf18@nbs.nust.edu.pk, not writing down my phone number and not like any one is looking at this website besides me these days anyways lmfao
+
+* [E-mail](mailto:ajwad.bsaf18@nbs.nust.edu.pk)
+
+* [GitHub](www.github.com/ajwadjaved)
+ 
+* [LinkedIn](https://www.linkedin.com/in/ajwad-javed-874395182/)
+
+

@@ -3,9 +3,9 @@ layout: default
 permalink: /about
 ---
 
-# List of some of my favourite books/movies/media that I've consumed just because I need something to test out relative hyperlinking and editing the default css on non-index pages on GitHub Pages:
+# List of some of the books/movies/media that I've consumed that I find worth mentioning 
 
-# Books
+## Books
 * Vladimir Nabokov - Lolita
 * Viktor Frankl - Man's Search for Meaning 
 * Alex Haley - The Autobiography of Malcolm X
@@ -15,29 +15,26 @@ permalink: /about
 * Alexandre Dumas - The Count of Monte Cristo
 
 
-# Documentaries
+## Documentaries
 * The World at War
 * The Century of the Self
 * [German Concentration Camps](https://www.youtube.com/watch?v=O5jeQ8ohtyo)
 * Earthlings
 
-# Movies/Videos
+## Movies/Videos
 * [Optimistic Nihilism](https://www.youtube.com/watch?v=R-sYDf0YGv4)
-* Primer - Shane Carruth
 * Requiem for a Dream - Darren Aronofsky
-* The Wrestler - Darren Aronofsky
 * Pi - Darren Aronofsky
-* The Shining - Stanley Kubrick
-* A Clockwork Orange - Stanley Kubrick
 * [Why I Went 2 Years with No Internet at Home](https://www.youtube.com/watch?v=kiMcX3Fa2Us)
-* Anything by Tarantino
+* A Clockwork Orange - Stanley Kubrick
+* Primer - Shane Carruth
+* Das Leben der Aderen - Florian Henckel von Donnersmarck
+* Anything by Quentin Tarantino
 
-# Music
+## Music
 * Clint Mansell - Lux Aeterna
 * Brand New - Limousine
 * The Notorious B.I.G. - Ready to Die \| Life After Death
-* Anything by Faris Shafi
-* [Mirage - Befiker](https://www.youtube.com/watch?v=x6F2AaCu55M)
-* Mooro - Pehli
+* Mooroo - Pehli
+* Vivaldi - Four Seasons
 * [And this](https://www.youtube.com/watch?v=KL--RrbjrF0)
-
