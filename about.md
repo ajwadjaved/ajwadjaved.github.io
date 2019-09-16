@@ -19,7 +19,7 @@ permalink: /about
 * The World at War
 * The Century of the Self
 * [German Concentration Camps](https://www.youtube.com/watch?v=O5jeQ8ohtyo)
-* Earthlings
+* Earthlings (the documentary that initially made me a vegetarian)
 
 ## Movies/Videos
 * [Optimistic Nihilism](https://www.youtube.com/watch?v=R-sYDf0YGv4)

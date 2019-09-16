@@ -15,4 +15,4 @@ Took part in a competition with two friends to detect hand drawn sketches and en
 Checked correlaion of financial news with stock prices.
 
 ## Financial Statements Table Extractor
-Currently working with Dr. Faisal Shafait and Shah Rukh Qasim to detect tables. I had no previous experience working with OCR or computer vision related problems before this.
+Currently working with Dr. Faisal Shafait on table detection. I had no previous experience working with OCR or computer vision related problems before this.
