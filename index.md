@@ -8,3 +8,5 @@ layout: default
 
 
 Click [here](Ajwad_Javed_CV.pdf) to download my CV.
+
+"Talent is everywhere, opportunity is not."
