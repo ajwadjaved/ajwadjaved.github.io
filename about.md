@@ -27,8 +27,8 @@ permalink: /about
 * Pi - Darren Aronofsky
 * [Why I Went 2 Years with No Internet at Home](https://www.youtube.com/watch?v=kiMcX3Fa2Us)
 * A Clockwork Orange - Stanley Kubrick
-* Primer - Shane Carruth
 * Das Leben der Aderen - Florian Henckel von Donnersmarck
+* Phantom Thread - Paul Thomas Anderson
 * Anything by Quentin Tarantino
 
 ## Music
