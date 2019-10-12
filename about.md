@@ -48,7 +48,3 @@ permalink: /about
 * [Talk Python To Me](https://talkpython.fm/episodes/all)
 * [Cppcast](http://cppcast.com/)
 * [Lex Fridman](https://lexfridman.com/)
-
-## Articles
-* https://lwn.net/Articles/250967/ (What Every Programmer Should Know About Memory)
-* 
