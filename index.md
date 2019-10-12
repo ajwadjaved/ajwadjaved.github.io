@@ -9,5 +9,5 @@ layout: default
 
 Click [here](AjwadJaved_CV.pdf) to download my CV.
 
-http://harmful.cat-v.org/software/
+[http://harmful.cat-v.org/software/](http://harmful.cat-v.org/software/)
 

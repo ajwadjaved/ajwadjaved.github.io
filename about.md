@@ -43,7 +43,12 @@ permalink: /about
 * The Beatles - Abbey Road
 
 ## Podcasts
-* History of Philosophy - Peter Adamson
-* Hardcore History - Dan Carlin
-* PRI's the World
-* Song Exploder
+* [History of Philosophy - Peter Adamson](https://historyofphilosophy.net)
+* [Planet Money](https://www.npr.org/sections/money/)
+* [Talk Python To Me](https://talkpython.fm/episodes/all)
+* [Cppcast](http://cppcast.com/)
+* [Lex Fridman](https://lexfridman.com/)
+
+## Articles
+* https://lwn.net/Articles/250967/ (What Every Programmer Should Know About Memory)
+* 
