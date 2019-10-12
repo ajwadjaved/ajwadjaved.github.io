@@ -41,3 +41,9 @@ permalink: /about
 * Wookiefoot - Just Visiting
 * David Bowie - The Rise and Fall of Ziggy Stardust and the Spiders from Mars
 * The Beatles - Abbey Road
+
+## Podcasts
+* History of Philosophy - Peter Adamson
+* Hardcore History - Dan Carlin
+* PRI's the World
+* Song Exploder

@@ -9,4 +9,5 @@ layout: default
 
 Click [here](AjwadJaved_CV.pdf) to download my CV.
 
-"Talent is everywhere, opportunity is not."
+http://harmful.cat-v.org/software/
+
