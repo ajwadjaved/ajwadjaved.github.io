@@ -7,6 +7,6 @@ layout: default
 **About:** Sophomore undergrad student with interests in Machine Learning, Finance, Mathematics and Linguistics. Currently I'm working on Table Extraction for Unstructured Text.
 
 
-Click [here](Ajwad_Javed_CV.pdf) to download my CV.
+Click [here](AjwadJaved_CV.pdf) to download my CV.
 
 "Talent is everywhere, opportunity is not."

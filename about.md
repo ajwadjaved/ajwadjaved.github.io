@@ -13,13 +13,14 @@ permalink: /about
 * Yuval Noah Harari - Sapiens: A Brief History of Humankind
 * Albert Camus - The Stranger 
 * Alexandre Dumas - The Count of Monte Cristo
+* Anything by Dostoevsky 
 
 
 ## Documentaries
 * The World at War
 * The Century of the Self
 * [German Concentration Camps](https://www.youtube.com/watch?v=O5jeQ8ohtyo)
-* Earthlings (the documentary that initially made me a vegetarian)
+* Earthlings (the documentary that initially made me a pescetarian)
 
 ## Movies/Videos
 * [Optimistic Nihilism](https://www.youtube.com/watch?v=R-sYDf0YGv4)
@@ -37,4 +38,6 @@ permalink: /about
 * The Notorious B.I.G. - Ready to Die \| Life After Death
 * Mooroo - Pehli
 * Vivaldi - Four Seasons
-* [And this](https://www.youtube.com/watch?v=KL--RrbjrF0)
+* Wookiefoot - Just Visiting
+* David Bowie - The Rise and Fall of Ziggy Stardust and the Spiders from Mars
+* The Beatles - Abbey Road
