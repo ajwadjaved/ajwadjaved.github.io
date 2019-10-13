@@ -38,9 +38,9 @@ permalink: /about
 * The Notorious B.I.G. - Ready to Die \| Life After Death
 * Mooroo - Pehli
 * Vivaldi - Four Seasons
-* Wookiefoot - Just Visiting
-* David Bowie - The Rise and Fall of Ziggy Stardust and the Spiders from Mars
+* David Bowie - The Rise and Fall of Ziggy Stardust
 * The Beatles - Abbey Road
+* A Tribe Called Quest - Low End Theory
 
 ## Podcasts
 * [History of Philosophy - Peter Adamson](https://historyofphilosophy.net)
