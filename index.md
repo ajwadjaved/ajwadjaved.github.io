@@ -4,7 +4,7 @@ layout: default
 
 [Interests](/about) \| [Projects](/project) \| [Resources](/resources) \| [Contact](/contact)
 
-**About:** A Pakistani sophomore undergrad student at NUST, Islamabad with interests in Machine Learning, Finance, Mathematics and Philosophy. Currently I'm working on Table Extraction for Unstructured Text.
+**About:** Pakistani sophomore undergrad student with interests in Machine Learning, Finance, Mathematics and Philosophy. Currently I'm working on Table Extraction for Unstructured Text at TUKL-NUST.
 
 
 Click [here](AjwadJaved_CV.pdf) to download my CV.
