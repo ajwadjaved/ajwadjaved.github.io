@@ -34,9 +34,9 @@ permalink: /about
 
 ## Music
 * Clint Mansell - Lux Aeterna
+* Erik Satie - Gymnopédies
 * Brand New - Limousine
 * The Notorious B.I.G. - Ready to Die \| Life After Death
-* Mooroo - Pehli
 * Vivaldi - Four Seasons
 * David Bowie - The Rise and Fall of Ziggy Stardust
 * The Beatles - Abbey Road
