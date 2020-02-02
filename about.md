@@ -45,6 +45,6 @@ permalink: /about
 ## Podcasts
 * [History of Philosophy - Peter Adamson](https://historyofphilosophy.net)
 * [Planet Money](https://www.npr.org/sections/money/)
-* [Talk Python To Me](https://talkpython.fm/episodes/all)
+* [Python Podcast](https://talkpython.fm/episodes/all)
 * [Cppcast](http://cppcast.com/)
 * [Lex Fridman](https://lexfridman.com/)
