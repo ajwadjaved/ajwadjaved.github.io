@@ -5,7 +5,7 @@ permalink: /about
 
 # List of some of the books/movies/media that I've consumed that I find worth mentioning 
 
-## Books
+## Books 
 * Vladimir Nabokov - Lolita
 * Viktor Frankl - Man's Search for Meaning 
 * Alex Haley - The Autobiography of Malcolm X
