@@ -21,6 +21,11 @@ h1 {
     font-size: 28px;
 }
 
+h1[lang="ur"], h1 span[lang="ur"], h2 [lang="ur"], h2 span[lang="ur"] {
+    font-family: "Noto Nastaliq Urdu",  serif;
+    letter-spacing: 0;
+}
+
 h2, h3 {
     font-family: "Courier New", "Courier", monospace;
     font-weight: bold;
