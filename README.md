@@ -1,3 +1,3 @@
 This is my personal blog :).
 
-Hosted [ajwadjaved.github.io](here).
+Hosted [here](ajwadjaved.github.io).
