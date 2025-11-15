@@ -1,0 +1,41 @@
+name: Update Date Daily
+
+on:
+  schedule:
+    # Runs at 23:00 UTC (00:00 CET/01:00 CEST Berlin time)
+    - cron: "0 23 * * *"
+
+  workflow_dispatch: # Allows manual trigger from GitHub UI
+
+jobs:
+  update-date:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Update date in HTML files
+        run: |
+          # Set timezone to Europe/Berlin
+          export TZ='Europe/Berlin'
+
+          # Get current date in format: 2025/11/15
+          CURRENT_DATE=$(date +'%Y/%m/%d')
+
+          # Update all HTML files with id="current-date"
+          find . -name "*.html" -type f -exec sed -i "s|<div id=\"current-date\">.*</div>|<div id=\"current-date\">$CURRENT_DATE</div>|g" {} +
+
+          # Check if there are changes
+          if git diff --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add -A
+          git commit -m "Auto-update date: $(date +'%Y/%m/%d')"
+          git push

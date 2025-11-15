@@ -9,6 +9,16 @@ body {
     font-size: 20px;
 }
 
+#current-date {
+    position: absolute;
+    top: 0;
+    right: 20px;
+    font-size: 16px;
+    color: #0a0a0a;
+    font-weight: bold;
+    opacity: 1;
+}
+
 h1 {
     font-family: "Courier New", "Courier", monospace;
     font-weight: bold;
