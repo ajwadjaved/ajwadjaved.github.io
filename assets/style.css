@@ -41,7 +41,6 @@ h2, h3 {
     font-weight: bold;
     text-transform: uppercase;
     letter-spacing: 2px;
-    margin-top: 10px;
 }
 
 nav {
@@ -54,16 +53,11 @@ nav a {
     color: #000;
     text-decoration: none;
     margin-right: 15px;
-    border-bottom: 1px solid #000;
 }
 
 nav a:hover {
     background: #000;
     color: #f5f5dc;
-}
-
-p {
-    margin: 15px 0;
 }
 
 ul {
