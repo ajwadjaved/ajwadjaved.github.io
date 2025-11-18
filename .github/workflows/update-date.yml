@@ -38,4 +38,5 @@ jobs:
           git config --local user.name "github-actions[bot]"
           git add -A
           git commit -m "Auto-update date: $(date +'%Y/%m/%d')"
+          git pull --rebase origin main
           git push
