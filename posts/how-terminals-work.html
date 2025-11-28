@@ -1,16 +1,24 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <meta charset="utf-8">
     <title>How a terminal works</title>
     <link rel="stylesheet" href="../assets/style.css">
 </head>
 <body>
     <h1>How a terminal works</h1>
+    <p>
+If you open your preferred terminal app and start typing in text, what you see is not your OS interacting with your terminal, but a <b>terminal emulator</b> that knows how to convert the incoming signals from your keyboard (or mouse clicks/hotkeys) into actionable events. It can take in a meaningless 'ls' text and know how to turn it into the appropriate 'list' command then display that command's output back onto the terminal emulator.
 
-    <p>A min explanation of how terminal emulators handle input, escape sequences, and draw characters…</p>
+The emulator is also where users can customise their colours and fonts, but this has nothing to do with the actual shell. Before the shell we have another layer called <b>PTY</b> (Pseudo Terminal). The job of the terminal emulator is visual and hardware-related—it captures keyboard events and displays shell output appropriately on your screen. The shell's job is purely logical: understanding text syntax and executing the right commands. The PTY acts as a translation layer between the two. Thanks to the PTY layer, the shell does not need to care what's on the other end, whether it's iTerm, PuTTY, or st.
 
+The data flows bidirectionally: keyboard ↔ terminal emulator ↔ PTY ↔ shell. The PTY sits between your emulator and your shell. It is responsible for handling escape sequences, signals like Ctrl-C (SIGINT) and Ctrl-Z (SIGSTOP), which interrupt and suspend process groups respectively. This is why Ctrl-C works even when you're deep inside a subprocess; the signal travels through the PTY, not directly from your shell.
+
+The PTY runs in either canonical or raw mode. In canonical mode, the PTY buffers your input text line by line and handles editing locally (such as backspace) before sending the final line to the shell. This allows you to edit your text before it gets executed. In raw mode, every keystroke is sent immediately to the program, giving real-time output. Text editors like Vim use raw mode because they need to respond to every keypress instantly.
+
+The shell is responsible for actual command execution and useful features such as pipes (|), redirection (>), and conditionals (&& and ||). Bash is a specific implementation of the shell. When the PTY feeds input into Bash, Bash can run all of that text as code, which includes looping, environment variables, and handling jobs and processes in the background.
+
+As a final example: when you type `cat file.txt | grep hello` and press enter, the terminal emulator captures those keystrokes, the PTY buffers them in canonical mode, then passes the complete line to Bash. Bash parses it, understands the pipe syntax, runs cat and pipes its output to grep, and the output flows back through the PTY to your terminal emulator for display.
+    </p>
     <p><a href="../index.html">← Back</a></p>
 </body>
 </html>
-
