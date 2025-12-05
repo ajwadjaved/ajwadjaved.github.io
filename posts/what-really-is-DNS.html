@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Example Title</title>
+    <link rel="stylesheet" href="../assets/style.css">
+</head>
+<body>
+    <h1>What Really is DNS</h1>
+
+    <p>DNS is the global naming system of the Internet, it's a system with which we translate each website's unique IP Addresses into a more human-readable format. DNS is more of a distributed, hierarchical database spread across millions of servers</p>
+
+    <p>There is a Root level server, which knows to route you to servers that host records for .com, or .de, or .io, and so on. Then TLD (Top Level Domain) has knowledge inside their own servers, e.g. it knows about .com domains and knows where to route you if you want to go to a specific one such as google.com. Then TLD routes you to the actual <b>Authoritative Server</b> which host the actual DNS records for that domain and information such as A records (IPv4 addresses), AAAA records (IPv6 addresses), CNAMES (Canonical Name, acts as a alias for connecting domain names), etc. </p>
+
+    <p> Root Level Servers → Top Level Domain Servers → Authoritative Servers</p>
+
+    <p>When you make a request to visit google.com, your computer asks your DNS Resolver to resolve the domain name. The DNS Resolver will first search through your cache, if the cache does not exist then our request goes to the Root Server -> TLD Server -> final Authoritative Server. Once we have the response, the initial google.com name is then linked with it's appropriate IP address.</p>
+
+    <p><b>But who actually pays for all of this?</b> The main root servers are operated by multiple organisations across the whole world, non-profits, multiple government departments, research centers. When you buy a domain name, a portion of those fees goes to funding this entire network. You almost never experience a failure with DNS Servers is because of it's massive scale and redundancy, and also because most users visit the same websites on a daily basis and even if the resolver is down the user's local cache has enough data for them to not notice a temporary outage. There is also no single point of failure that would break the system down, there are millions of authoriative servers and thousands of DNS Providers in the world.</p>
+
+    <p><a href="../index.html">← Back</a></p>
+</body>
+</html>
+
